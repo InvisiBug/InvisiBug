@@ -35,7 +35,7 @@
 
    Operating systems I'm familiar with<br/>
   ![macOS](https://img.shields.io/badge/macOS-000000?&logo=macos&logoColor=F0F0F0)&nbsp;
-  ![Windows](https://img.shields.io/badge/Windows%20xp-003399?&logo=windowsxp&logoColor=white)&nbsp;
+  ![Windows](https://img.shields.io/badge/Windows-003399?&logo=windowsxp&logoColor=white)&nbsp;
   ![Linux](https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black)&nbsp;
   ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?&logo=alpine-linux&logoColor=white)&nbsp;
   ![Debian](https://img.shields.io/badge/Debian-D70A53?&logo=debian&logoColor=white)&nbsp;
