@@ -6,7 +6,7 @@
 ![Banner](https://i.imgur.com/BXIsTp4.png)
 
 ## 🧑 About me
-🧑‍💻 Working as a software engineer at Sky Betting & Gaming<br/>
+🧑‍💻 Working as a software engineer at Flutter UKI<br/>
 🛠️ Love building stuff (mostly electronic things)<br/>
 🎧 Love going on walks and listening to audiobooks<br/>
 📐 Love simulating natural systems using p5js<br/>
