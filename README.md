@@ -63,6 +63,8 @@
 
   Other things<br/>
   ![Docker](https://img.shields.io/badge/Docker-0db7ed?&logo=docker&logoColor=white)&nbsp;
+  ![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm)&nbsp;
+  ![ArgoCD](https://img.shields.io/badge/Argo-EF7B4D?logo=argo&logoColor=white)&nbsp;
   ![MQTT](https://img.shields.io/badge/MQTT-3C5280?logo=eclipse-mosquitto&)&nbsp;
   ![Pi-Hole](https://img.shields.io/badge/PiHole-96060C?&logo=pi-hole&logoColor=white)&nbsp;
   ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?&logo=Prometheus&logoColor=white)&nbsp;
