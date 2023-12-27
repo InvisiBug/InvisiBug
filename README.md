@@ -16,8 +16,8 @@
   <summary>My Pipelines</br></summary>
 
   KavaNest Client  
-[![Live pipeline](https://github.com/InvisiBug/kavanest-client/actions/workflows/live.yaml/badge.svg)](https://github.com/InvisiBug/kavanest-client/actions/workflows/live.yaml&kill_cache=1)
-[![Test pipeline](https://github.com/InvisiBug/kavanest-client/actions/workflows/test.yaml/badge.svg)](https://github.com/InvisiBug/kavanest-client/actions/workflows/test.yaml&kill_cache=1)
+[![Live](https://github.com/InvisiBug/kavanest-client/actions/workflows/live.yaml/badge.svg)](https://github.com/InvisiBug/kavanest-client/actions/workflows/live.yaml&kill_cache=1)
+[![Test](https://github.com/InvisiBug/kavanest-client/actions/workflows/test.yaml/badge.svg)](https://github.com/InvisiBug/kavanest-client/actions/workflows/test.yaml&kill_cache=1)
 
   KavaNest API  
 [![Live pipeline](https://github.com/InvisiBug/kavanest-api/actions/workflows/live.yaml/badge.svg)](https://github.com/InvisiBug/kavanest-api/actions/workflows/live.yaml&kill_cache=1)
@@ -30,6 +30,9 @@ KavaNest Controller
 KavaNest Scraper  
 [![Live pipeline](https://github.com/InvisiBug/kavanest-scraper/actions/workflows/live.yaml/badge.svg)](https://github.com/InvisiBug/kavanest-scraper/actions/workflows/live.yaml&kill_cache=1)
 [![Test pipeline](https://github.com/InvisiBug/kavanest-scraper/actions/workflows/test.yaml/badge.svg)](https://github.com/InvisiBug/kavanest-scraper/actions/workflows/test.yaml&kill_cache=1)
+
+KavaNest Simulator  
+[![Test pipeline](https://github.com/InvisiBug/Kavanet-Simulator/actions/workflows/test.yaml/badge.svg)](https://github.com/InvisiBug/Kavanet-Simulator/actions/workflows/test.yaml&kill_cache=1)
 
 Kavanet.io  
 [![Live pipeline](https://github.com/InvisiBug/kavanet-io-next/actions/workflows/live.yaml/badge.svg)](https://github.com/InvisiBug/kavanet-io-next/actions/workflows/live.yaml&kill_cache=1)
