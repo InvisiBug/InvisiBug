@@ -13,6 +13,32 @@
 🔭 Currently working on building a wall mounted pen plotter<br/>
 
 <details>
+  <summary>My Pipelines</br></summary>
+
+  KavaNest Client  
+[![Live pipeline](https://github.com/InvisiBug/kavanest-client/actions/workflows/live.yaml/badge.svg)](https://github.com/InvisiBug/kavanest-client/actions/workflows/live.yaml)
+[![Test pipeline](https://github.com/InvisiBug/kavanest-client/actions/workflows/test.yaml/badge.svg)](https://github.com/InvisiBug/kavanest-client/actions/workflows/test.yaml)
+
+  KavaNest API  
+[![Live pipeline](https://github.com/InvisiBug/kavanest-api/actions/workflows/live.yaml/badge.svg)](https://github.com/InvisiBug/kavanest-api/actions/workflows/live.yaml)
+[![Test pipeline](https://github.com/InvisiBug/kavanest-api/actions/workflows/test.yaml/badge.svg)](https://github.com/InvisiBug/kavanest-api/actions/workflows/test.yaml)
+
+KavaNest Controller  
+[![Live pipeline](https://github.com/InvisiBug/kavanest-controller/actions/workflows/live.yaml/badge.svg)](https://github.com/InvisiBug/kavanest-controller/actions/workflows/live.yaml)
+[![Test pipeline](https://github.com/InvisiBug/kavanest-controller/actions/workflows/test.yaml/badge.svg)](https://github.com/InvisiBug/kavanest-controller/actions/workflows/test.yaml)
+
+KavaNest Scraper  
+[![Live pipeline](https://github.com/InvisiBug/kavanest-scraper/actions/workflows/live.yaml/badge.svg)](https://github.com/InvisiBug/kavanest-scraper/actions/workflows/live.yaml)
+[![Test pipeline](https://github.com/InvisiBug/kavanest-scraper/actions/workflows/test.yaml/badge.svg)](https://github.com/InvisiBug/kavanest-scraper/actions/workflows/test.yaml)
+
+Kavanet.io  
+[![Live pipeline](https://github.com/InvisiBug/kavanet-io-next/actions/workflows/live.yaml/badge.svg)](https://github.com/InvisiBug/kavanet-io-next/actions/workflows/live.yaml)
+
+
+</details>
+
+
+<details>
   <summary>Things I work with in my day to day</summary>
 
   ![React](https://img.shields.io/badge/React-20232a?&logo=react&logoColor=61DAFB)&nbsp;
