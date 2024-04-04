@@ -1,5 +1,6 @@
 <!-- Useful links -->
 <!-- https://simpleicons.org/ -->
+<!-- https://badges.pages.dev/ Can click to copy the badge md with this one-->
 <!-- https://zzetao.github.io/awesome-github-profile/ -->
 
 
@@ -82,6 +83,7 @@ Kavanet.io
   ![p5js](https://img.shields.io/badge/Processing-ED225D?&logo=p5.js&logoColor=FFFFFF)&nbsp;
   ![Styled Components](https://img.shields.io/badge/Emotion--Styled-DB7093?&logo=styled-components&logoColor=white)&nbsp;
   ![TailwindCSS](https://img.shields.io/badge/Tailwindcss-38B2AC?&logo=tailwind-css&logoColor=white)&nbsp;
+  ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?logo=platformio&logoColor=fff&)&nbsp;
 
   Software<br />
   ![Lightroom Classic](https://img.shields.io/badge/Lightroom%20Classic-31A8FF?&logo=Adobe%20Lightroom%20Classic&logoColor=white)&nbsp;
