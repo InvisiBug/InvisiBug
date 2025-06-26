@@ -4,14 +4,19 @@
 <!-- https://zzetao.github.io/awesome-github-profile/ -->
 
 
-![Banner](https://i.imgur.com/BXIsTp4.png)
+<!-- ![Banner](https://i.imgur.com/BXIsTp4.png) -->
+![Banner](https://i.imgur.com/NwpXwrv.jpeg)
 
 ## 🧑 About me
-🧑‍💻 Working as a software engineer<br/>
-🛠️ Love building stuff (mostly electronic things)<br/>
+🧑‍💻 Software engineer 5+ years experiance<br/>
+🎪 Flowception co-founder<br/>
+🔥 Fire performer<br/>
+🤹‍♂️ Prop Maker
+
+<!-- 🛠️ Love building stuff (mostly electronic things)<br/>
 🎧 Love going on walks and listening to audiobooks<br/>
 📐 Love simulating natural systems using p5js<br/>
-🔭 Currently working on building a wall mounted pen plotter<br/>
+🔭 Currently working on building a wall mounted pen plotter<br/> -->
 
 <details>
   <summary>My Pipelines</br></summary>
@@ -37,8 +42,6 @@ KavaNest Simulator
 
 Kavanet.io  
 [![Live pipeline](https://github.com/InvisiBug/kavanet-io-next/actions/workflows/live.yaml/badge.svg)](https://github.com/InvisiBug/kavanet-io-next/actions/workflows/live.yaml&kill_cache=1)
-
-
 </details>
 
 
@@ -46,11 +49,12 @@ Kavanet.io
   <summary>Things I work with in my day to day</summary>
 
   ![React](https://img.shields.io/badge/React-20232a?&logo=react&logoColor=61DAFB)&nbsp;
-  ![Jest](https://img.shields.io/badge/Jest-C21325?&logo=jest&logoColor=white)&nbsp;
   ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?&logo=graphql&logoColor=white)&nbsp;
+  ![NewRelic](https://img.shields.io/badge/NewRelic-1CE783?&logo=newrelic&logoColor=white)&nbsp;
   ![Grafana](https://img.shields.io/badge/Grafana-F46800?&logo=grafana&logoColor=white)&nbsp;
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?&logo=kubernetes&logoColor=white)&nbsp;
   ![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm)&nbsp;
+  ![Jest](https://img.shields.io/badge/Jest-C21325?&logo=jest&logoColor=white)&nbsp;
   ![Linux](https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black)&nbsp;
   ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?&logo=prettier&logoColor=black)&nbsp;
 </details>
