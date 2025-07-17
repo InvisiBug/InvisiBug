@@ -8,8 +8,9 @@
 ![Banner](https://i.imgur.com/NwpXwrv.jpeg)
 
 ## 🧑 About me
-🧑‍💻 Software engineer 5+ years experiance<br/>
-🎪 Flowception co-founder<br/>
+🧑‍💻 Software engineer with 10+ years experience. Built scalable web apps at Flutter UK&I. <br/>
+🏠 Built my own home automation system  
+🎪 [Flowception](https://linktree.flowception.co.uk) co-founder<br/>
 🔥 Fire performer<br/>
 🤹‍♂️ Prop Maker
 
@@ -45,19 +46,17 @@ Kavanet.io
 </details>
 
 
-<details>
-  <summary>Things I work with in my day to day</summary>
-
-  ![React](https://img.shields.io/badge/React-20232a?&logo=react&logoColor=61DAFB)&nbsp;
+### Things I work with in my day to day
+![React](https://img.shields.io/badge/React-20232a?&logo=react&logoColor=61DAFB)&nbsp;
+  ![Redux Badge](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)&nbsp;
   ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?&logo=graphql&logoColor=white)&nbsp;
   ![NewRelic](https://img.shields.io/badge/NewRelic-1CE783?&logo=newrelic&logoColor=white)&nbsp;
   ![Grafana](https://img.shields.io/badge/Grafana-F46800?&logo=grafana&logoColor=white)&nbsp;
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?&logo=kubernetes&logoColor=white)&nbsp;
   ![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm)&nbsp;
   ![Jest](https://img.shields.io/badge/Jest-C21325?&logo=jest&logoColor=white)&nbsp;
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black)&nbsp;
-  ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?&logo=prettier&logoColor=black)&nbsp;
-</details>
+
+
 
 <details>
   <summary>Things I have experience with</summary><br/>
@@ -103,4 +102,19 @@ Kavanet.io
   ![MQTT](https://img.shields.io/badge/MQTT-3C5280?logo=eclipse-mosquitto&)&nbsp;
   ![Pi-Hole](https://img.shields.io/badge/PiHole-96060C?&logo=pi-hole&logoColor=white)&nbsp;
   ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?&logo=Prometheus&logoColor=white)&nbsp;
+  ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?&logo=prettier&logoColor=black)&nbsp;
 </details>
+
+
+<!-- <details>
+  <summary>Things I work with in my day to day</summary>
+
+  ![React](https://img.shields.io/badge/React-20232a?&logo=react&logoColor=61DAFB)&nbsp;
+  ![Redux Badge](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)&nbsp;
+  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?&logo=graphql&logoColor=white)&nbsp;
+  ![NewRelic](https://img.shields.io/badge/NewRelic-1CE783?&logo=newrelic&logoColor=white)&nbsp;
+  ![Grafana](https://img.shields.io/badge/Grafana-F46800?&logo=grafana&logoColor=white)&nbsp;
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?&logo=kubernetes&logoColor=white)&nbsp;
+  ![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm)&nbsp;
+  ![Jest](https://img.shields.io/badge/Jest-C21325?&logo=jest&logoColor=white)&nbsp;
+</details> -->
