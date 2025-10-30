@@ -10,10 +10,11 @@
 
 ## 🧑 About me
 🧑‍💻 Software engineer with 10+ years experience. Built scalable web apps at Flutter UK&I. <br/>
-🏠 Built my own home automation system  
+🏠 Built my own home automation system
 🎪 [Flowception](https://linktree.flowception.co.uk) co-founder<br/>
 🔥 Fire performer<br/>
 🤹‍♂️ Prop Maker
+🚥 Working on making an interactive LED performance space
 
 <!-- 🛠️ Love building stuff (mostly electronic things)<br/>
 🎧 Love going on walks and listening to audiobooks<br/>
