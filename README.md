@@ -6,15 +6,32 @@
 
 
 <!-- ![Banner](https://i.imgur.com/BXIsTp4.png) -->
-![Banner](https://i.imgur.com/NwpXwrv.jpeg)
+
+<!-- ![Banner](./images/Em-Kay.jpg) -->
+![Banner](./images/Matt-Kavanagh.png)
 
 ## 🧑 About me
 🧑‍💻 Software engineer with 10+ years experience. Built scalable web apps at Flutter UK&I. <br/>
-🏠 Built my own home automation system
+🏠 Built my own home automation system<br/>
 🎪 [Flowception](https://linktree.flowception.co.uk) co-founder<br/>
 🔥 Fire performer<br/>
-🤹‍♂️ Prop Maker
-🚥 Working on making an interactive LED performance space
+🤹‍♂️ Prop Maker<br/>
+🚥 LED performance space creator
+
+<details>
+  <summary>More Info</br></summary>
+
+I'm an experienced Web Developer with my main focus being frontend development with hands-on experience in backend development, hosting, and infrastructure.
+
+In my free time I design and build many different things including websites, 3D models, electronic projects and larger community events.
+I have been a passionate photographer for many years and take photos at various events.
+
+I'm also active in the flowarts scene, with my main props being Fire Contact Staff and Poi but I can also juggle. I have a geodome that I take to festivals and events to create a chill space for people to hang out. I have also been involved in the creation of an LED space that appears every year at the UKs biggest juggling convention (BJC).
+
+I spent some time travelling in south east Asia and lived in Hongkong for about a year and a half.
+
+
+</details>
 
 <!-- 🛠️ Love building stuff (mostly electronic things)<br/>
 🎧 Love going on walks and listening to audiobooks<br/>
@@ -50,13 +67,14 @@ Kavanet.io
 
 ### Things I work with in my day to day
 ![React](https://img.shields.io/badge/React-20232a?&logo=react&logoColor=61DAFB)&nbsp;
-  ![Redux Badge](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)&nbsp;
-  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?&logo=graphql&logoColor=white)&nbsp;
-  ![NewRelic](https://img.shields.io/badge/NewRelic-1CE783?&logo=newrelic&logoColor=white)&nbsp;
-  ![Grafana](https://img.shields.io/badge/Grafana-F46800?&logo=grafana&logoColor=white)&nbsp;
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?&logo=kubernetes&logoColor=white)&nbsp;
-  ![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm)&nbsp;
-  ![Jest](https://img.shields.io/badge/Jest-C21325?&logo=jest&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/Typescript-007ACC?&logo=typescript&logoColor=white)&nbsp;
+![Redux Badge](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)&nbsp;
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?&logo=graphql&logoColor=white)&nbsp;
+![NewRelic](https://img.shields.io/badge/NewRelic-1CE783?&logo=newrelic&logoColor=white)&nbsp;
+![Grafana](https://img.shields.io/badge/Grafana-F46800?&logo=grafana&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?&logo=kubernetes&logoColor=white)&nbsp;
+![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm)&nbsp;
+![Jest](https://img.shields.io/badge/Jest-C21325?&logo=jest&logoColor=white)&nbsp;
 
 
 
