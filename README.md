@@ -11,7 +11,7 @@
 ![Banner](./images/Matt-Kavanagh.png)
 
 ## 🧑 About me
-🧑‍💻 Software engineer with 10+ years experience. Built scalable web apps at Flutter UK&I. <br/>
+🧑‍💻 On call software engineer with 10+ years experience with 5 years spent at Flutter UK&I where I built scalable web apps as part of a team.<br/>
 🏠 Built my own home automation system<br/>
 🎪 [Flowception](https://linktree.flowception.co.uk) co-founder<br/>
 🔥 Fire performer<br/>
